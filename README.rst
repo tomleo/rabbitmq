@@ -1,0 +1,3 @@
+- Using https://api.cloudamqp.com for hosted RabbitMQ server
+- On tutorial Publish/Subscribe https://www.rabbitmq.com/tutorials/tutorial-three-python.html
+- Look into https://github.com/jbrisbin/rabbitmq-webhooks
